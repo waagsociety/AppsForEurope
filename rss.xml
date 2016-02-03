@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://localhost/apps/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Apps for Europe - turning data into business</title>
+    <link>http://localhost/apps/rss.xml</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>HOMER and APPS4EUROPE Business Lounge, Turin</title>
+    <link>http://localhost/apps/event/homer-and-apps4europe-business-lounge-turin-0</link>
+    <description>&lt;div class=&quot;field field-name-field-content-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/apps/event/homer-and-apps4europe-business-lounge-turin-0&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://localhost/apps/sites/default/files/styles/medium/public/Hack4Med_slide.jpg?itok=Gqgy2Cnw&quot; width=&quot;220&quot; height=&quot;90&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-event-date field-type-datetime field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-07-09T09:30:00+00:00&quot;&gt;Wednesday, July 9, 2014 - 9:30am&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Homer project and APPS4EUROPE establish a synergy in occasion of the HOMER Open Data Ceremony that will be organized in Turin on 9th July.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Following the HACK4MED contest organized in the framework of Homer project, the award ceremony on the 9th July will also include a Business Lounge, following the event format defined and promoted by the APPS4EUROPE project.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-event-type field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Event type:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/apps/event-type/meeting&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Meeting&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 26 Jun 2014 15:10:53 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">153 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>“Sizing the EU app economy” – Eurapp Report Launch – Brussels, Belgium</title>
+    <link>http://localhost/apps/blog/%E2%80%9Csizing-eu-app-economy%E2%80%9D-%E2%80%93-eurapp-report-launch-%E2%80%93-brussels-belgium</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://eurapp.eu/&quot;&gt;Eurapp&lt;/a&gt;, which was launched by the EU commission and run by &lt;a href=&quot;http://www.deri.ie/&quot;&gt;DERI&lt;/a&gt;, &lt;a href=&quot;http://www.nuigalway.ie/&quot;&gt;NUI Galway&lt;/a&gt; and &lt;a href=&quot;http://gigaom.com/&quot;&gt;GigaOM&lt;/a&gt; Research, has spent the last year investigating the state of the European app economy.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 14 Feb 2014 14:57:25 +0000</pubDate>
+ <dc:creator>alice</dc:creator>
+ <guid isPermaLink="false">98 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Apps for Europe</title>
+    <link>http://localhost/apps/article/apps-europe</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Apps for Europe is a support network that provides tools to transform ideas for data based apps into viable businesses. We want to unleash the financial potential and social value of open data and create better apps and digital services for citizens across Europe.&lt;/p&gt;
+&lt;p&gt;If you have an idea for an app or you’re an open data start up, we can help you source money, expertise and space and give you access to a powerful European network of support to turn your ideas into a real business.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 23 May 2013 12:27:11 +0000</pubDate>
+ <dc:creator>Lodewijk Loos</dc:creator>
+ <guid isPermaLink="false">11 at http://localhost/apps</guid>
+  </item>
+  </channel>
+</rss>

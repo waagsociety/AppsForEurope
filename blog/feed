@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://localhost/apps/blog" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog</title>
+    <link>http://localhost/apps/blog</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>See our previous Apps for Europe finalists - will you enter this year&#039;s contest?</title>
+    <link>http://localhost/apps/blog/see-our-previous-apps-europe-finalists-will-you-enter-years-contest</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/105655421&quot; width=&quot;800&quot; height=&quot;450&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;2014&amp;#39;s Apps for Europe finalists, and the eventual winners, at FutureEverything in Manchester. Next year&amp;#39;s contest is already open - &lt;a href=&quot;http://localhost/apps/blog/competition-now-open-enter-your-app-0&quot;&gt;find out how to enter your app&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 09 Sep 2014 15:03:55 +0000</pubDate>
+ <dc:creator>Darryl.Chamberlain</dc:creator>
+ <guid isPermaLink="false">176 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Competition now open - enter your app</title>
+    <link>http://localhost/apps/blog/competition-now-open-enter-your-app-0</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://extern.waag.org/ivonne/a4eu/Competition.jpg&quot; style=&quot;padding: 0px; border: 0px currentcolor; border-image-source: none;&quot; /&gt;With 10 Business Lounges happening throughout Europe this year, Apps for Europe is trying to find the best open data applications and startups that Europe has to offer. We invite all developers, startups and companies that use open data as a recourse to join our competition and win a spot at the International Business Lounge @ Future Everything in February 2015.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 31 Aug 2014 13:08:23 +0000</pubDate>
+ <dc:creator>Ivonne Jansen-Dings</dc:creator>
+ <guid isPermaLink="false">174 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Business Lounge guides available</title>
+    <link>http://localhost/apps/blog/business-lounge-guides-available</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://extern.waag.org/ivonne/a4eu/bl01.jpg&quot; style=&quot;padding: 0px; border: 0px currentcolor; border-image-source: none;&quot; /&gt;Are you hosting an open data event, competition or hackathon and are looking for ways to support the participating teams? Apps for Europe can help! We are a support network that provides tools to open data event organizers to transform ideas for data based apps into viable businesses. We want to unleash the financial potential and social value of open data and create better apps and digital services for citizens across Europe.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 29 Aug 2014 13:54:48 +0000</pubDate>
+ <dc:creator>Ivonne Jansen-Dings</dc:creator>
+ <guid isPermaLink="false">175 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Digital art project The Space opens with hackathon at Tate Modern</title>
+    <link>http://localhost/apps/blog/digital-art-project-space-opens-hackathon-tate-modern</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://extern.waag.org/ivonne/a4eu/tate.jpg&quot; style=&quot;padding: 0px; border: 0px currentColor;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 01 Jul 2014 14:40:39 +0000</pubDate>
+ <dc:creator>Ivonne Jansen-Dings</dc:creator>
+ <guid isPermaLink="false">168 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Apps for Europe Business Lounge at Coding Da Vinci</title>
+    <link>http://localhost/apps/blog/apps-europe-business-lounge-coding-da-vinci</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Building apps based on Open Culture Data - first open Culture Hackathon started with over 150 participants resulting in 24 projects.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 28 May 2014 15:26:15 +0000</pubDate>
+ <dc:creator>Haidee Bell</dc:creator>
+ <guid isPermaLink="false">150 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Storify - International Business Lounge 2014</title>
+    <link>http://localhost/apps/blog/storify-international-business-lounge-2014</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;iframe allowtransparency=&quot;true&quot; frameborder=&quot;no&quot; height=&quot;750&quot; src=&quot;//storify.com/Apps4EU/international-business-lounge-2014-futureeverythin/embed&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;&lt;script src=&quot;//storify.com/Apps4EU/international-business-lounge-2014-futureeverythin.js&quot; type=&quot;text/javascript&quot; language=&quot;javascript&quot;&gt;&lt;/script&gt;&lt;p&gt;&lt;noscript&gt;[&lt;a href=&quot;//storify.com/Apps4EU/international-business-lounge-2014-futureeverythin&quot; target=&quot;_blank&quot;&gt;View the story &quot;International Business Lounge 2014 - FutureEverything&quot; on Storify&lt;/a&gt;]&lt;/noscript&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 04 Apr 2014 13:41:31 +0000</pubDate>
+ <dc:creator>alice</dc:creator>
+ <guid isPermaLink="false">138 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Apps for Europe at FutureEverything 2014</title>
+    <link>http://localhost/apps/blog/apps-europe-futureeverything-2014</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h4&gt;By. &lt;a href=&quot;https://twitter.com/kresin&quot;&gt;Frank Kresin&lt;/a&gt; - originally posted by &lt;a href=&quot;http://waag.org/nl/blog/apps-europe-futureeverything-2014&quot;&gt;Waag Society&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;While a lot of data has been opened for anyone to freely use, reuse and (re)distribute, the amount of new, sustainable businesses and their monetary value have lagged far behind the staggering figures projected a few years ago.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 04 Apr 2014 09:36:19 +0000</pubDate>
+ <dc:creator>alice</dc:creator>
+ <guid isPermaLink="false">133 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Trentino Open Data Challenge - open for submissions</title>
+    <link>http://localhost/apps/blog/trentino-open-data-challenge-open-submissions</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The first edition of &lt;a href=&quot;http://challenge.dati.trentino.it/&quot;&gt;Trentino Open Data Challenge&lt;/a&gt; was officially launched in January!&lt;br /&gt;This competition is organised and promoted by &lt;a href=&quot;http://www.trentorise.eu/&quot;&gt;Trento RISE&lt;/a&gt; and the Autonomous &lt;a href=&quot;http://www.provincia.tn.it/&quot;&gt;Province of Trento&lt;/a&gt;, Italy, in connection with the &lt;a href=&quot;http://dati.trentino.it/&quot;&gt;Open Data Trentino&lt;/a&gt; project  that publishes a catalog of Open datasets from the public administration of the Province.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 24 Mar 2014 09:27:54 +0000</pubDate>
+ <dc:creator>alice</dc:creator>
+ <guid isPermaLink="false">123 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Data Days 2014 - Apps for Europe Business Lounge</title>
+    <link>http://localhost/apps/blog/data-days-2014-apps-europe-business-lounge</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;On the 18th of February, during the Open Europe conference in the city of Ghent, an Apps for Europe Business Lounge took place in the &#039;Bijloke Muziekcentrum.&#039; Here&#039;s a short overview:&lt;/p&gt;
+&lt;p&gt;Pieter Colpaert and Raf Buyle started the Business Lounge competition with a short introduction on Apps for Europe and why this project and sustainable Open Data applications matter.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 05 Mar 2014 16:57:59 +0000</pubDate>
+ <dc:creator>alice</dc:creator>
+ <guid isPermaLink="false">113 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>“Sizing the EU app economy” – Eurapp Report Launch – Brussels, Belgium</title>
+    <link>http://localhost/apps/blog/%E2%80%9Csizing-eu-app-economy%E2%80%9D-%E2%80%93-eurapp-report-launch-%E2%80%93-brussels-belgium</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://eurapp.eu/&quot;&gt;Eurapp&lt;/a&gt;, which was launched by the EU commission and run by &lt;a href=&quot;http://www.deri.ie/&quot;&gt;DERI&lt;/a&gt;, &lt;a href=&quot;http://www.nuigalway.ie/&quot;&gt;NUI Galway&lt;/a&gt; and &lt;a href=&quot;http://gigaom.com/&quot;&gt;GigaOM&lt;/a&gt; Research, has spent the last year investigating the state of the European app economy.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 14 Feb 2014 14:57:25 +0000</pubDate>
+ <dc:creator>alice</dc:creator>
+ <guid isPermaLink="false">98 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>SAPO Codebits 2014 - Hackathon </title>
+    <link>http://localhost/apps/blog/sapo-codebits-2014-hackathon</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Pedro Torres from Portugal Telecom writes:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hackathons are melting pots of hands-on innovation where tech wizards turn their wildest dreams into reality. And they have a lot of fun while doing it. Following tradition, Portugal Telecom will be holding its seventh edition of &lt;a href=&quot;https://codebits.eu/&quot;&gt;SAPO Codebits&lt;/a&gt;. It will take place between 10-12 April 2014 in Lisbon, in an amazing venue right by the river.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 28 Jan 2014 11:34:00 +0000</pubDate>
+ <dc:creator>alice</dc:creator>
+ <guid isPermaLink="false">84 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Bottom-up open data: create data yourself </title>
+    <link>http://localhost/apps/blog/bottom-open-data-create-data-yourself</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Suzanne Heerschop from Waag Society writes:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Innovation comes in all sorts and sizes. This was clearly visible at the recent &lt;a href=&quot;http://www.innovatie-estafette.nl/&quot;&gt;Innovation Estafette&lt;/a&gt; in Amsterdam.&lt;/p&gt;
+&lt;p&gt;Hot topics were: recycling, energy consumption, health care, but most of all: the &lt;em&gt;smart citizen&lt;/em&gt;. There is no Dutch equivalent for these words yet, but it&#039;s all about me and you.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 20 Dec 2013 13:56:41 +0000</pubDate>
+ <dc:creator>Naomi</dc:creator>
+ <guid isPermaLink="false">78 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Apps for Greece launched in Thessaloniki</title>
+    <link>http://localhost/apps/blog/apps-greece-launched-thessaloniki</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;By: Charalampos Bratas &amp;amp; Sander van der Waal&lt;/span&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 12 Dec 2013 14:29:31 +0000</pubDate>
+ <dc:creator>Naomi</dc:creator>
+ <guid isPermaLink="false">77 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Piemonte Visual Contest - Open for submissions</title>
+    <link>http://localhost/apps/blog/piemonte-visual-contest-open-submissions</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Piemonte Visual Contest - Open for submissions&lt;/p&gt;
+&lt;p&gt;Piemonte Visual Contest is a competition for visualisation projects based on data concerning the Piedmont Region in Italy.&lt;/p&gt;
+&lt;p&gt;Piedmont launched its Open Data portal (&lt;a href=&quot;http://www.dati.piemonte.it&quot;&gt;http://www.dati.piemonte.it&lt;/a&gt;) in 2010 where datasets from the regional government are published in accordance to Piedmont Open Data strategy.&lt;/p&gt;
+&lt;p&gt;The contest accepts works presenting social, economic and environmental information from the datasets the Regional Government is publishing.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 09 Dec 2013 11:11:19 +0000</pubDate>
+ <dc:creator>Naomi</dc:creator>
+ <guid isPermaLink="false">74 at http://localhost/apps</guid>
+  </item>
+  <item>
+    <title>Team is a key of success: Interview with the Spanish tech investor Francisco Marin</title>
+    <link>http://localhost/apps/blog/team-key-success-interview-spanish-tech-investor-francisco-marin</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Today we are happy to offer you the interview with Spanish tech investor Francisco Marin from &lt;a href=&quot;http://www.futureplus.es/?lang=en&quot;&gt;Ambar Venture Capital&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span lang=&quot;EN-GB&quot; style=&quot;font-size: 9pt; font-family: Arial, sans-serif;&quot; xml:lang=&quot;EN-GB&quot;&gt;&lt;p&gt;&lt;/p&gt;&lt;/span&gt;Francisco Marin counts with a wide professional experience, starting from hardware and software design in electronic equipment, through project management tasks and entrepreneurial career.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 21 Nov 2013 08:49:41 +0000</pubDate>
+ <dc:creator>Kristine Atraste</dc:creator>
+ <guid isPermaLink="false">69 at http://localhost/apps</guid>
+  </item>
+  </channel>
+</rss>
